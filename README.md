@@ -32,6 +32,8 @@
 <h2>Ищу работу в сфере разработки на Python(Django, ML, DS, Data analyst) или C#(Backend, gamedev)</h2>
 <h3>Активно изучаю Django. Далее на очереди - docker и kubernetes.</h3>
 <h3>Пользуюсь виртуалкой с linux для тестов разработок</h3>
+<br>
+<h3>Есть учетки в discord, тг, whatsapp. Делюсь данными при личном общении. Иначе - только при предоставлении документа о защите персональных данных.</h3>
 
 <!--
 **Krouler/Krouler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

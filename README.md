@@ -30,7 +30,7 @@
 <h1>На данный момент...</h1>
 <h2>Работаю специалистом по ИБ</h2>
 <h2>Ищу работу в сфере разработки на Python(Django, ML, DS, Data analyst) или C#(Backend, gamedev)</h2>
-<h3>Активно изучаю Django</h3>
+<h3>Активно изучаю Django. Далее на очереди - docker и kubernetes.</h3>
 
 <!--
 **Krouler/Krouler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

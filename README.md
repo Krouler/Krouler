@@ -29,7 +29,7 @@
 
 <h1>На данный момент...</h1>
 <h2>Работаю специалистом по ИБ</h2>
-<h2>Ищу работу в сфере разработки на Python(Django, ML, DS, Data analyst) или C#(Backend, gamedev,java тоже сюда же)</h2>
+<h2>Ищу работу в сфере разработки на Python(Django, ML, DS, Data analyst) или C#(Backend, gamedev, на java тоже)</h2>
 <h3>Активно изучаю Django. Далее на очереди - docker и kubernetes.</h3>
 <h3>Пользуюсь виртуалкой с linux для тестов разработок</h3>
 <br>

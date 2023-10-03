@@ -15,7 +15,7 @@
 <h3>Имеется коммерческий опыт. AD, политики AD, триггеры, настройка МСЭ, настройка шлюза, сетевые устройства, развертывание централизованных СЗИ, MailEnable, мониторинг, парсинг</h3>
 <p>Для автоматизации и упрощения работы мною были написано многочисленное количество скриптов на языках: JS, VBS, Python. Преобладающе имел дело с ОС Windows.</p>
 <h2>Фронтенд</h2>
-<h3>html,css,js,DOM, react, redux, vue</h3>
+<h3>html,css,js, typescript, react, redux, vue</h3>
 
 <!--
 **Krouler/Krouler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
